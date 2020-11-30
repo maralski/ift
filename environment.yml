@@ -1,0 +1,6 @@
+name: ift
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - voila=0.2.4=py_0
