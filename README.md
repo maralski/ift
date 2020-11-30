@@ -32,3 +32,5 @@ Once data is upload and columns have been selected the item to graph based on **
 - Set **Breakpoints** to number of breaks in piecewise linear regression.
 
 The graph along with the goodness of fit and forecast will be produced. If **Y_MAX** is specified and the forecast reaches Y_MAX, the graph will include text describing the number of future points required to reach **Y_MAX**, along with the minimum Y, maxmimum Y and range between maximum and minimum Y.
+
+![Demo Picture](demo.png)
